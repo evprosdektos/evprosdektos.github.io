@@ -1,0 +1,117 @@
+{
+  "content":{
+    "shesavali": {
+      "title": "შესავალი",
+      "page": 1,
+      "anchor": false,
+      "children": {
+        "arqimandriti-eprem-vatopedeli": {
+          "title": "არქიმანდრიტი ეფრემ ვატოპედელი",
+          "page": 1,
+          "anchor": false,
+          "children": false
+        }
+      }
+    },
+    "tavi-pirveli":{
+      "title": "თავი პირველი: ბავშვობისა და ყრმობის წლები",
+      "page": 2,
+      "anchor": false,
+      "children": {
+        "ojakhi": {
+          "title": "ოჯახი",
+          "page": 2,
+          "anchor": false,
+          "children": false
+        },
+        "bavshvobisa-da-krmobis-tslebi": {
+          "title": "ბავშვობის და ყრმობის წლები",
+          "page": 3,
+          "anchor": false,
+          "children": false
+        },
+        "qalaq-paposshi": {
+          "title": "ქალაქ პაფოსში",
+          "page": 3,
+          "anchor": false,
+          "children": false
+        },
+        "cockhali-uplis-khilva": {
+          "title": "ცოცხალი უფლის ხილვა",
+          "page": 3,
+          "anchor": false,
+          "children": false
+        }
+      }
+    },
+    "tavi-meore":{
+      "title": "თავი მეორე: მონაზვნური მოწოდება სტავროვუნის მონასტერში",
+      "page": 4,
+      "anchor": false,
+      "children": {
+        "stavrovunishi": {
+          "title": "სტავროვუნიში",
+          "page": 4,
+          "anchor": false,
+          "children": false
+        },
+        "stavrovunis-monastris-monazoni": {
+          "title": "სტავროვუნის მონასტრის მონაზონი",
+          "page": 4,
+          "anchor": false,
+          "children": false
+        },
+        "stavrovunis-mnastrs-stnbmsili-berebi": {
+          "title": "სტავროვუნის მონასტრის სათნოებამოსილი ბერები",
+          "page": 4,
+          "anchor": false,
+          "children": false
+        },
+        "sleri-bzlbi-stvrvnis-mnastrshi-da-madlis-gmocdlba": {
+          "title": "სულიერი ბრძოლები სტავროვუნის მონასტერში და მადლის გამოცდილება",
+          "page": 5,
+          "anchor": false,
+          "children": false
+        },
+        "tavis-braloba-shroma-morchileba": {
+          "title": "თავის ბრალობა, შრომა, მორჩილება",
+          "page": 6,
+          "anchor": false,
+          "children": false
+        },
+        "monazvnad-aghkveca-sopronis-sakhelit": {
+          "title": "მონაზვნად აღკვეცა სოფრონის სახელით",
+          "page": 6,
+          "anchor": false,
+          "children": false
+        }
+      }
+    }
+  },
+  "pages":{
+    "1": {
+      "id": 9527,
+      "slug": "ბერი-იოსებ-ვატოპედელი-შე"
+    },
+    "2": {
+      "id": 9545,
+      "slug": "წიგნი-ბერი-იოსებ-ვატოპედ-2"
+    },
+    "3": {
+      "id": 9567,
+      "slug": "წიგნი-ბერი-იოსებ-ვატოპედ-3"
+    },
+    "4": {
+      "id": 9594,
+      "slug": "წიგნი-ბერი-იოსებ-ვატოპე"
+    },
+    "5": {
+      "id": 9622,
+      "slug": "წიგნი-ბერი-იოსებ-ვატოპე-2"
+    },
+    "6": {
+      "id": 9630,
+      "slug": "წიგნი-ბერი-იოსებ-ვატოპე-3"
+    }
+  }
+}

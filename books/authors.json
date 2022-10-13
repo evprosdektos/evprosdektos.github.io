@@ -13,11 +13,25 @@
   },
   "ვ": {},
   "ზ": {},
-  "თ": {},
+  "თ": {
+    "teodore-gignadze": {
+      "name": "თეოდორე გიგნაძე",
+      "title": "დეკანოზი",
+      "birth": "1960",
+      "death": false
+    }
+  },
   "ი": {},
   "კ": {},
   "ლ": {},
-  "მ": {},
+  "მ": {
+    "marijn-haverbeke": {
+      "name": "Marijn Haverbeke",
+      "title": "programmer",
+      "birth": "1990",
+      "death": false
+    }
+  },
   "ნ": {},
   "ო": {},
   "პ": {},
